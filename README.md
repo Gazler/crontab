@@ -40,7 +40,7 @@ Add `:crontab` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:crontab, "~> 1.1"}
+    {:crontab, "~> 1.2"}
   ]
 end
 ```
